@@ -23,7 +23,8 @@ Você pode instalar as bibliotecas usando pip:
 
 pip install pandas scikit-learn minisom numpy plotly
 
-Como Usar
+Como Usar:
+
 Baixe ou clone este repositório.
 Certifique-se de ter todos os pré-requisitos instalados.
 Execute o arquivo startups_analysis.py em seu ambiente Python.
