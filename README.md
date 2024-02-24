@@ -1,4 +1,4 @@
-# 2o-Trabalho-Experimento-de-Aprendizado-N-o-Supervisionado
+# 2o-Trabalho-Experimento-de-Aprendizado-Nao-Supervisionado
 
 README - Análise de Startups e Clustering
 
