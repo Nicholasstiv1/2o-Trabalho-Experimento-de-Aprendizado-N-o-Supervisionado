@@ -27,5 +27,5 @@ Como Usar:
 
 Baixe ou clone este repositório.
 Certifique-se de ter todos os pré-requisitos instalados.
-Execute o arquivo startups_analysis.py em seu ambiente Python.
+Execute o arquivo analise.py em seu ambiente Python.
 Após a execução, os resultados da análise serão abertos em uma página contendo o gráfico interativo e o arquivo clusters.xlsx será gerado.
